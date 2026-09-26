@@ -12,6 +12,12 @@ EduRAG is a curriculum-locked, multilingual AI tutoring system that answers stud
 
 Built using an OPEA-based modular RAG architecture optimized for Intel CPUs.
 
+## 🎥 Demo
+
+[![EduRAG Demo](https://img.youtube.com/vi/Ws-2bcPOpAI/maxresdefault.jpg)](https://youtu.be/Ws-2bcPOpAI)
+
+**▶️ [Watch the full demo on YouTube](https://youtu.be/Ws-2bcPOpAI)**
+
 ## 🎯 Problem It Solves :
 
 ### In Indian classrooms:
