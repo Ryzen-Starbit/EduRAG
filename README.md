@@ -121,13 +121,6 @@ Cross-lingual semantic mapping is enabled using multilingual embeddings.
 - Start backend - uvicorn backend.main:app --reload
 - Open frontend - Open frontend/index.html in browser.
 
-## 🔐 Zero Hallucination Policy:
-
-If answer is not found in NCERT:
-"This question is outside the NCERT curriculum."
-
-No external knowledge is ever used.
-
 ## 🎓 Academic Context:
 
 Focus Areas: 
